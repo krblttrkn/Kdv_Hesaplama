@@ -31,4 +31,4 @@ public class kdv {
 ```
 
 # Patika Linkim:
-<a href="https://app.patika.dev/krblttrkn">Patika Profilim:)</a>
+<a href="https://academy.patika.dev/profile">Patika Profilim:)</a>
